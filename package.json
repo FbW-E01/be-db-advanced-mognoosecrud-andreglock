@@ -1,0 +1,24 @@
+{
+  "name": "be-db-advanced-mognoosecrud-andreglock",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "In this project you will find 6 files that I want you to complete",
+  "main": "user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-db-advanced-mognoosecrud-andreglock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-db-advanced-mognoosecrud-andreglock/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-db-advanced-mognoosecrud-andreglock#readme",
+  "dependencies": {
+    "mongoose": "^6.0.9"
+  }
+}
